@@ -52,7 +52,8 @@ My name is Mark, 18 years old, I study at the Moscow College of Information and 
 Main language: Russian, I am learning English.
 
 #### Hobby
-
+* Watching anime, reading manga and ranobe. 
+* Try other programming languages.
 
 <!--
 **WarkingMark/WarkingMark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
