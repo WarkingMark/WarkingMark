@@ -47,15 +47,8 @@ Junior web developer with 1 year of non-commercial work experience. I have knowl
 
 
 ### About me
-Name : Mark
-
-Age : 18 
-
-Educational institution : Moscow College of Information and Technology
-
-Language : 
-* :ru: (main)
-* :us: (B1)
+My name is Mark, 18 years old, I study at the Moscow College of Information and Technology
+Main language: Russian, I am learning English.
 
 <!--
 **WarkingMark/WarkingMark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
