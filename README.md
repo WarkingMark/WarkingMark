@@ -32,6 +32,7 @@ Junior web developer with 1 year of non-commercial work experience. I have knowl
 *   JavaScript
 *   MySQL
 *   some experience in Vue js and React js
+*   * 1
 *   some experience with PHP (Wordpress, Laravel)
 *   Git
 
