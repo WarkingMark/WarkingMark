@@ -20,18 +20,15 @@ Junior web developer with 1 year of non-commercial work experience. I have knowl
     * Clean
     * Pug
     * Handlebars
-
 *   CSS (Without preprocesspors)
 *   JavaScript
 *   MySQL
 *   some experience in
     * Vue js
     * React js
-
 *   some experience with PHP
     * Wordpress
     * Laravel
-
 *   Git
 
 
