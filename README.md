@@ -23,16 +23,9 @@ Junior web developer with 1 year of non-commercial work experience. I have knowl
 * Over studying Node js
 
 ### How to reach me:
-<p align='center'>
-   <a href="https://www.linkedin.com/in/romankh3/">
-       <img src="https://sun9-56.userapi.com/impg/2tawgO5E-ArevLzme0qtKa7rYCHEHq-1On_JXg/U8rTgmAHrYc.jpg?size=1024x1024&quality=96&sign=aa8942e360a1b5e572a1a41d9c919ccb&type=album"/>
-   </a>
-   <a href="vk.com/Warking0">
-       <img src="https://sun9-83.userapi.com/impg/Zq9fpN2ig5wT5J8xkrxtiXIqiEO8TAlEtnNtQw/AtspQMabliE.jpg?size=1920x1920&quality=96&sign=8381b4e035658de4e11b9b32b05110ea&type=album"/>
-   </a>
-<p align='center'>
-   📫 How to reach me: <a href='mailto:roman.beskrovnyy@gmail.com'>roman.beskrovnyy@gmail.com</a>
-</p>
+* Telegram : @warking0 
+* VK : <a href = "https://vk.com/">vk.com/Warking0</a>  
+* E-mail : mark-trach@mail.ru
 <!-- 
 ## 🛠 Technical Stack
 *   Java/Kotlin/Groovy/COBOL languages
