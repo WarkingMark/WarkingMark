@@ -29,25 +29,29 @@ Junior web developer with 1 year of non-commercial work experience. I have knowl
 
 
 ### 🛠 Technical Stack
-*   HTML :
+*   HTML
     * Clean
     * Pug
     * Handlebars
 *   CSS (Without preprocesspors)
 *   JavaScript
 *   MySQL
-*   some experience in :
+*   some experience in
     * Vue js
     * React js
-*   some experience with PHP:
+*   some experience with PHP
     * Wordpress
     * Laravel
 *   Git
 
 
 
-### Statistics
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WarkingMark&bg_color=black)](https://github.com/anuraghazra/github-readme-stats)
+### About me
+Name : Mark
+Age : 18 
+Educational institution : Moscow College of Information and Technology
+Language : :ru:
+
 <!--
 **WarkingMark/WarkingMark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
