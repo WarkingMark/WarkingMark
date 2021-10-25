@@ -18,7 +18,7 @@
 Junior web developer with 1 year of non-commercial work experience. I have knowledge in JavaScript HTML, CSS. I will be glad to learn new things and work on interesting projects!
 
 
-### I’m currently learning : 
+### :book: I’m currently learning : 
 * Studying Vue
 * Studying Node js
 
@@ -48,8 +48,11 @@ Junior web developer with 1 year of non-commercial work experience. I have knowl
 
 ### About me
 Name : Mark
+
 Age : 18 
+
 Educational institution : Moscow College of Information and Technology
+
 Language : :ru:
 
 <!--
