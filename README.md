@@ -1,7 +1,8 @@
 <img src = "https://sun9-26.userapi.com/impg/jQaCxOQ72KZl5M49gT0bp5iE_GrJHkDBjELpkw/PGUbyCY5ooI.jpg?size=1280x720&quality=96&sign=2ba785fb8c04dec25b10970829352e74&type=album" alt = "Image">
 <h2 style = "text-aligh=center">Информация о себе / About me</h2>
 <p>Зовут Марк / My name is Mark</p>
-<p>Учусь в Московском коллежде информации и технологий / I study at the Moscow College of Information and Technology. Link to college <a href = "https://www.anomokit.ru/">this</a></p>
+<p>Учусь в Московском коллежде информации и технологий / I study at the Moscow College of Information and Technology.</p>
+<p>Link to college <a href = "https://www.anomokit.ru/">this</a></p>
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WarkingMark&show_icons=true&theme=radical&border_color=red)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WarkingMark&bg_color=black)](https://github.com/anuraghazra/github-readme-stats) -->
