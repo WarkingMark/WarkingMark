@@ -17,23 +17,22 @@
 # Hello, i am Mark =)
 Junior web developer with 1 year of non-commercial work experience. I have knowledge in JavaScript HTML, CSS. There is basic knowledge of React js, Vue js. I will be glad to learn new things and work on interesting projects!
 
+
+### I’m currently learning : 
+* Over studying Vue
+* Over studying Node js
+
+### How to reach me:
 <p align='center'>
    <a href="https://www.linkedin.com/in/romankh3/">
-       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+       <img src="https://sun9-56.userapi.com/impg/2tawgO5E-ArevLzme0qtKa7rYCHEHq-1On_JXg/U8rTgmAHrYc.jpg?size=1024x1024&quality=96&sign=aa8942e360a1b5e572a1a41d9c919ccb&type=album"/>
    </a>
-   <a href="https://t.me/joinchat/SpqRPBFo_sM6qm05">
-       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+   <a href="vk.com/Warking0">
+       <img src="https://sun9-83.userapi.com/impg/Zq9fpN2ig5wT5J8xkrxtiXIqiEO8TAlEtnNtQw/AtspQMabliE.jpg?size=1920x1920&quality=96&sign=8381b4e035658de4e11b9b32b05110ea&type=album"/>
    </a>
 <p align='center'>
    📫 How to reach me: <a href='mailto:roman.beskrovnyy@gmail.com'>roman.beskrovnyy@gmail.com</a>
 </p>
-
-
-### Key points
-*   creator of [Javarush Community](https://github.com/javarushcommunity) and [Template Repository](https://github.com/template-repository) organizations.
-*   creator and author of [romankh3](https://t.me/romankh3) telegram channel. Subscribe to recieve messages about my open-source activities.
-*   Write posts about software development.
-*   Currently working in [Epam Systems](https://www.linkedin.com/company/epam-systems/)
 <!-- 
 ## 🛠 Technical Stack
 *   Java/Kotlin/Groovy/COBOL languages
