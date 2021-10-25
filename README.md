@@ -39,22 +39,10 @@ Junior web developer with 1 year of non-commercial work experience. I have knowl
     * Laravel
 *   Git
 
-<!-- ### My opensource projects
-
-*   [image-comparison](https://github.com/romankh3/image-comparison) - Published on Maven Central Java Library that compares 2 images with the same sizes and shows the differences visually by drawing rectangles. Some parts of the image can be excluded from the comparison.
-*   [JavaRush TelegramBot](https://github.com/javarushcommunity/javarush-telegrambot) - JavaRush Telegram bot from the community to the community
-*   [Skyscanner Flight API client](https://github.com/romankh3/skyscanner-flight-api-client) - Published on Maven Central Java Client for a Skyscanner Flight Search API hosted in Rapid API
-*   [Flights-monitoring](https://github.com/romankh3/flights-monitoring) - Application for monitoring flight cost based on Skyscanner API
-
-<div align="center" style="margin: 40px 0">
-   <a href="https://github.com/romankh3/github-profile-views-counter">
-       <img width="175px" src="https://komarev.com/ghpvc/?username=romankh3&color=DE002D">
-   </a>
-</div> --> -->
 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WarkingMark&bg_color=black)](https://github.com/anuraghazra/github-readme-stats) -->
+### Statistics
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WarkingMark&bg_color=black)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **WarkingMark/WarkingMark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
