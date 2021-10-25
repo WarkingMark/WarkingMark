@@ -15,26 +15,27 @@
 
 
 # Hello, i am Mark =)
-Junior web developer with 1 year of non-commercial work experience. I have knowledge in JavaScript HTML, CSS. There is basic knowledge of React js, Vue js. I will be glad to learn new things and work on interesting projects!
+Junior web developer with 1 year of non-commercial work experience. I have knowledge in JavaScript HTML, CSS. I will be glad to learn new things and work on interesting projects!
 
 
 ### I’m currently learning : 
-* Over studying Vue
-* Over studying Node js
+* Studying Vue
+* Studying Node js
 
 ### How to reach me:
 * Telegram : @warking0 
 * VK : <a href = "https://vk.com/">vk.com/Warking0</a>  
 * E-mail : mark-trach@mail.ru
-<!-- 
-## 🛠 Technical Stack
-*   Java/Kotlin/Groovy/COBOL languages
-*   MySQL, PostgreSQL, MongoDB, Aurora, DynamoDB, Flyway, Liquibase
-*   Spring Framework, Spring Boot, Spring Test, Spring Data Jpa, Spring Jdbc template, Spring Cloud Contract and so on...
-*   Camunda, Camunda Cockpit, Camunda Modeleter
-*   GitHub/GitLab/Gerrit/Bitbucket
 
-### My opensource projects
+
+## 🛠 Technical Stack
+*   JavaScript
+*   MySQL
+*   some experience in Vue js and React js
+*   some experience with PHP (Wordpress, Laravel)
+*   Git
+
+<!-- ### My opensource projects
 
 *   [image-comparison](https://github.com/romankh3/image-comparison) - Published on Maven Central Java Library that compares 2 images with the same sizes and shows the differences visually by drawing rectangles. Some parts of the image can be excluded from the comparison.
 *   [JavaRush TelegramBot](https://github.com/javarushcommunity/javarush-telegrambot) - JavaRush Telegram bot from the community to the community
@@ -45,7 +46,7 @@ Junior web developer with 1 year of non-commercial work experience. I have knowl
    <a href="https://github.com/romankh3/github-profile-views-counter">
        <img width="175px" src="https://komarev.com/ghpvc/?username=romankh3&color=DE002D">
    </a>
-</div> -->
+</div> --> -->
 
 
 
