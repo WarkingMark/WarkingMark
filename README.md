@@ -1,4 +1,4 @@
-<img src = "https://sun9-26.userapi.com/impg/jQaCxOQ72KZl5M49gT0bp5iE_GrJHkDBjELpkw/PGUbyCY5ooI.jpg?size=1280x720&quality=96&sign=2ba785fb8c04dec25b10970829352e74&type=album" alt = "Image">
+<img src = "https://sun9-66.userapi.com/impg/uOLyp-np7qbHeqypq5D8aO1jaAzcXIWcblJ_Sg/vBammrC10PI.jpg?size=1378x723&quality=96&sign=6e090b380a1b4975b4efe880dfe125ee&type=album" alt = "Image">
 
 
 ## Welcome =)
