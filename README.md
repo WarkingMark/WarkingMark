@@ -28,7 +28,7 @@ Junior web developer with 1 year of non-commercial work experience. I have knowl
 * E-mail : mark-trach@mail.ru
 
 
-## 🛠 Technical Stack
+### 🛠 Technical Stack
 *   JavaScript
 *   MySQL
 *   some experience in Vue js and React js
