@@ -14,7 +14,7 @@
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WarkingMark&show_icons=true&theme=radical&border_color=red) -->
 
 
-# Hello, i am Mark =)
+## Welcome =)
 Junior web developer with 1 year of non-commercial work experience. I have knowledge in JavaScript HTML, CSS. I will be glad to learn new things and work on interesting projects!
 
 
@@ -22,7 +22,7 @@ Junior web developer with 1 year of non-commercial work experience. I have knowl
 * Studying Vue
 * Studying Node js
 
-### How to reach me:
+### :mag_right: How to reach me:
 * Telegram : @warking0 
 * VK : <a href = "https://vk.com/">vk.com/Warking0</a>  
 * E-mail : mark-trach@mail.ru
@@ -53,7 +53,9 @@ Age : 18
 
 Educational institution : Moscow College of Information and Technology
 
-Language : :ru:
+Language : 
+* :ru: (main)
+* :us: (B1)
 
 <!--
 **WarkingMark/WarkingMark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
