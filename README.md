@@ -1,4 +1,4 @@
-[![MasterHead](https://mangalib.me/uploads/users/157125/xbdYNEo3f9.jpg)](https://github.com/WarkingMark)
+[![MasterHead](https://sun9-4.userapi.com/impg/wxrtA1sf1GtrVFNsFK2pmwy4iAULb2L78SUwpA/4tr1FjgVJRQ.jpg?size=1197x673&quality=96&sign=ab8443172e9d3bb1d01736c444929f81&type=album)](https://github.com/WarkingMark)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WarkingMark&show_icons=true&theme=radical&border_color=red)
 
