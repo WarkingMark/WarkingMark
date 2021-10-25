@@ -3,7 +3,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WarkingMark&show_icons=true&theme=radical&border_color=red)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WarkingMark&bg_color=black)](https://github.com/anuraghazra/github-readme-stats)
-<img src = "https://sun9-4.userapi.com/impg/wxrtA1sf1GtrVFNsFK2pmwy4iAULb2L78SUwpA/4tr1FjgVJRQ.jpg?size=1197x673&quality=96&sign=ab8443172e9d3bb1d01736c444929f81&type=album" alt = "Image">
+<img src = "https://sun9-26.userapi.com/impg/jQaCxOQ72KZl5M49gT0bp5iE_GrJHkDBjELpkw/PGUbyCY5ooI.jpg?size=1280x720&quality=96&sign=2ba785fb8c04dec25b10970829352e74&type=album" alt = "Image">
 <!--
 **WarkingMark/WarkingMark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
