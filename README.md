@@ -1,5 +1,6 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WarkingMark&show_icons=true&theme=radical&border_color=red)
+[![MasterHead](https://mangalib.me/uploads/users/157125/xbdYNEo3f9.jpg)](https://github.com/WarkingMark)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WarkingMark&show_icons=true&theme=radical&border_color=red)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WarkingMark&bg_color=black)](https://github.com/anuraghazra/github-readme-stats)
 
