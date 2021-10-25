@@ -3,6 +3,13 @@
 <p>Зовут Марк / My name is Mark</p>
 <p>Учусь в Московском коллежде информации и технологий / I study at the Moscow College of Information and Technology.</p>
 <p>Link to college <a href = "https://www.anomokit.ru/">this</a></p>
+
+<h3>Что пробовал</h3>
+<p>HTML</p>
+<p>CSS</p>
+<p>JavaScript</p>
+<p>PHP</p>
+<p>PYTHON</p>
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WarkingMark&show_icons=true&theme=radical&border_color=red)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WarkingMark&bg_color=black)](https://github.com/anuraghazra/github-readme-stats) -->
