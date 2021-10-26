@@ -36,7 +36,7 @@ Junior web developer with 1 year of non-commercial work experience. I have knowl
 ## About me
 My name is Mark, 18 years old, I study at the Moscow College of Information and Technology
 
-Main language: Russian, I am learning English.
+Main language: Russian, learning English.
 
 ### Hobby
 * Watching anime, reading manga and ranobe 😄. 
