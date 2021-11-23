@@ -20,7 +20,7 @@ Junior web developer with 1 year of non-commercial work experience. I have knowl
     * Clean
     * Pug
     * Handlebars
-*   CSS (Without preprocesspors)
+*   CSS (Clean or SCSS)
 *   JavaScript
 *   MySQL
 *   some experience in
