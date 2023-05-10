@@ -14,29 +14,10 @@ Junior web developer with 1 year of non-commercial work experience. I have knowl
 * VK : <a href = "https://vk.com/">vk.com/Warking0</a>  
 * E-mail : mark-trach@mail.ru
 
-
-### 🛠 Technical Stack
-*   HTML
-    * Clean
-    * Pug
-    * Handlebars
-*   CSS (Clean or SCSS)
-*   JavaScript
-*   MySQL
-*   some experience in
-    * Vue js
-    * React js
-*   some experience with PHP
-    * Wordpress
-    * Laravel
-*   Git
-
-
-
 ## About me
 My name is Mark, 18 years old, I study at the Moscow College of Information and Technology
 
-Main language: Russian, learning English.
+Main language: Russian, English.
 
 ### Hobby
 * Watching anime, reading manga and ranobe 😄. 
